@@ -1,0 +1,35 @@
+1. data science
+2. sports
+3. food
+4. english songs
+5. indian songs
+6. hollywood movies
+7. bollywood movies
+8. Education
+9. Covid 19 
+10. cricket
+11. nature
+12. cooking 
+13. technologies
+14. Engineering
+15. Agriculture
+16. Dance
+17. ART
+18. Karnataka Tourist 19. places
+20. Bengaluru
+21. Modi
+22. Manufacturing 23. Process
+24. Funny videos
+25. Web scrapping
+26. Trending
+27. Gaming
+28. Fashion and Beauty
+29. Kannada songs
+30. Pollution
+31. Yoga
+USA
+INDIA
+
+
+
+
